@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Dark Background -->
+  <rect width="500" height="500" fill="#09090b"/>
+  
+  <!-- Subtle Border -->
+  <rect x="25" y="25" width="450" height="450" fill="none" stroke="#27272a" stroke-width="4"/>
+  
+  <!-- Main VK Typography -->
+  <text x="230" y="315" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="210" fill="#ffffff" letter-spacing="-10" text-anchor="middle">VK</text>
+  
+  <!-- Emerald Accent Dot -->
+  <circle cx="395" cy="285" r="24" fill="#10b981"/>
+</svg>
